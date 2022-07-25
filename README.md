@@ -16,6 +16,9 @@ This privacy aspect is really important as it prevents discrimination and possib
 Currently this demo is only for POC. Here we are using Discord server as authorization to create DAO,joined DAO and create identity. 
 In future this will be replace by other authentication system.Users only get access to the voting page and get voting rights after the user is verified by Discord role.
 
+### Important!!
+ZK proof generated while casting vote. So it will take sometime to complete transactions.
+
 ## Resource
 #### Contract Address:- 0x721DCFcE1f846e6F3a52f9658a7B50AB16Ee16c7
 #### UI:- https://sensational-sprite-22d535.netlify.app/
