@@ -19,7 +19,7 @@ In future this will be replace by other authentication system.Users only get acc
 ## Resource
 #### Contract Address:- 0x721DCFcE1f846e6F3a52f9658a7B50AB16Ee16c7
 #### UI:- https://sensational-sprite-22d535.netlify.app/
-#### Demo:- https://drive.google.com/file/d/1qBT4vYguOFCVrK6v6Zga1LMC-OZM0gWC/view?usp=sharing
+#### Demo:- https://vimeo.com/manage/videos/733185517
 #### Relay Repository:- https://github.com/Harsh8196/AnonyZKVoter-Relay.git
 #### UI Repository:- https://github.com/Harsh8196/anonyzkvote-ui.git
 
