@@ -28,7 +28,8 @@ ZK proof generated while casting vote. So it will take sometime to complete tran
 
 ### Architecture 
 
-![image](https://user-images.githubusercontent.com/35626990/180749543-1902170b-1e48-4c8c-92ba-3b9904825d44.png)
+![ZKVote](https://user-images.githubusercontent.com/35626990/181221665-1ce1120d-dce3-4707-86d4-73d97837378f.jpg)
+
 
 
 ## Steps to use Anonymous ZKVote
